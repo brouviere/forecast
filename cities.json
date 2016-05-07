@@ -1,0 +1,25 @@
+[{
+	"_id": 6455259,
+	"name": "Paris",
+	"country": "FR",
+	"coord": {
+		"lon": 2.35236,
+		"lat": 48.856461
+	}
+}, {
+	"_id": 5128638,
+	"name": "New York",
+	"country": "US",
+	"coord": {
+		"lon": -75.499901,
+		"lat": 43.000351
+	}
+}, {
+	"_id": 1850147,
+	"name": "Tokyo",
+	"country": "JP",
+	"coord": {
+		"lon": 139.691711,
+		"lat": 35.689499
+	}
+}]

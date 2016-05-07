@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Forecast | By Ben</title>
+	<!-- Latest compiled and minified CSS -->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+	<!-- CUSTOM STYLE -->
+	<link rel="stylesheet" href="assets/styles/main.css">
+	<link rel="stylesheet" type="text/css" href="assets/styles/weather-icons.css"> 
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.2/css/font-awesome.min.css">
+</head>
+<body ng-app="forecastApp" >
+	<div ng-controller="HomeController">
+		<!-- <div class="container" ng-class="getColor()"> -->
+		<div class="container">
+			<div class="header">
+				<h1 class="text-center">Forecast</h1>
+			</div>
+			<!-- Buttons -->
+			<div class="btn-group btn-group-justified menu" role="group">
+				<a class="btn btn-default" role="button" ng-click="searchCity('Paris')">Paris</a>
+				<a class="btn btn-default" role="button" ng-click="searchCity('New York')">New York</a>
+				<a class="btn btn-default" role="button" ng-click="searchCity('Tokyo')">Tokyo</a>
+			</div>
+			<div class="col-xs-12 content">
+				<!-- GEO -->
+				<div class="col-xs-6 col-sm-3 geo">
+					<i class="fa fa-map-pin"></i>
+					<div>
+						<h2 ng-bind="cityName"></h2> <small ng-bind="country"></small>
+					</div>
+				</div>
+				<!-- DATE -->
+				<div class="col-xs-6 col-sm-3 date">
+					<i class="fa fa-clock-o"></i>
+					<h2 ng-bind="dt | date: 'mediumTime'"></h2>
+					<p>{{ dt | date}}</p>
+				</div>
+				<!-- WEATHER -->
+				<div class="col-xs-6 col-sm-3 weather">
+					<div class="col-xs-12 col-sm-6 text-center">
+						<img src="assets/img/icons/{{weatherIcon}}.png" class="img-responsive">
+					</div>
+					<div class="col-xs-12 col-sm-6 text-center">
+						<p ng-bind="weatherMain"></p>
+					</div>
+						
+						
+				</div>
+				<!-- TEMPERATURE -->
+				<div class="col-xs-6 col-sm-3 temp">
+					<i class="wi wi-thermometer"></i>
+					<h2>
+						<span ng-bind="tempC | number:0"></span><span> °C</span>						
+					</h2>
+					<small ng-bind="tempF | number:2"></small><small>°F</small>
+				</div>
+				
+			<div class="col-xs-12">
+				<!-- <button class="btn" ng-click="severalCities()">Several</button> -->
+<!-- 
+				<input type="text" ng-model="timestamp">
+				<p>{{timestamp +0430| date}}</p> -->
+			</div>
+			
+
+
+			<!-- 
+				<span>{{ hour | date:"MM/dd/yyyy 'at' h:mma"}}</span>
+				<h2 ng-bind="cityName"></h2>
+				<span ng-bind="country"></span>
+				<span>{{ main.temp -273.15 | number:0 }}°C</span>
+
+				<p>
+					<h3>Weather</h3>
+					<ul ng-repeat="info in weather">
+						<li ng-bind="info.description"></li>
+						<li ng-bind="info.main"></li>
+					</ul>
+				</p>
+				<p>
+					<h3>Wind</h3>
+					<ul>
+						<li ng-bind="wind.speed"></li>
+						<li ng-bind="wind.deg"></li>
+					</ul>	
+				</p>
+				-->
+			</div>
+		</div>
+		<div>
+<!-- 			<button class="btn" ng-click="severalCities()">Several</button>
+			<div ng-repeat="city in cities track by $index">
+				<p ng-repeat="(key, cityName) in city.name">
+					<span ng-bind="key"></span>
+					<spanng-bind="cityName"></span>
+				</p>				
+			</div> -->
+
+			<!-- <div>
+				<div class="btn-group btn-group-justified menu" role="group" ng-repeat="cityName in cityNames track by $index">
+					<a class="btn btn-default" role="button" ng-click="searchCity('cityName')" ng-bind="cityName"></a>
+				</div>
+			</div> -->			
+		</div>
+	</div>
+	
+	
+
+	<!--  Angular JS-->
+	<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.9/angular.min.js"></script>
+	<!-- CORE -->
+	<script src="assets/scripts/core/app.js"></script>
+	<!-- HOME CONTROLLER -->
+	<script src="assets/scripts/controllers/home-controller.js"></script>
+</body>
+</html>

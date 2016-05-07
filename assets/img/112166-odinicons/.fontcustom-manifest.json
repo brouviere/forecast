@@ -1,0 +1,448 @@
+{
+  "checksum": {
+    "previous": "3a32fbf49c57e7f6af1b55502205123408c06e2cb22c8b45a48db45a69a9c81c",
+    "current": "3a32fbf49c57e7f6af1b55502205123408c06e2cb22c8b45a48db45a69a9c81c"
+  },
+  "fonts": [
+    "/var/www/static/flaticon/zip_packs/112166-odinicons/font/Flaticon.ttf",
+    "/var/www/static/flaticon/zip_packs/112166-odinicons/font/Flaticon.svg",
+    "/var/www/static/flaticon/zip_packs/112166-odinicons/font/Flaticon.woff",
+    "/var/www/static/flaticon/zip_packs/112166-odinicons/font/Flaticon.eot"
+  ],
+  "glyphs": {
+    "beer-jar": {
+      "codepoint": 61696,
+      "source": "/var/www/static/flaticon/zip_packs/112166-odinicons/svg/beer-jar.svg"
+    },
+    "bicycle": {
+      "codepoint": 61697,
+      "source": "/var/www/static/flaticon/zip_packs/112166-odinicons/svg/bicycle.svg"
+    },
+    "book": {
+      "codepoint": 61698,
+      "source": "/var/www/static/flaticon/zip_packs/112166-odinicons/svg/book.svg"
+    },
+    "bottle": {
+      "codepoint": 61699,
+      "source": "/var/www/static/flaticon/zip_packs/112166-odinicons/svg/bottle.svg"
+    },
+    "bottle-1": {
+      "codepoint": 61700,
+      "source": "/var/www/static/flaticon/zip_packs/112166-odinicons/svg/bottle-1.svg"
+    },
+    "briefcase": {
+      "codepoint": 61701,
+      "source": "/var/www/static/flaticon/zip_packs/112166-odinicons/svg/briefcase.svg"
+    },
+    "brightness": {
+      "codepoint": 61702,
+      "source": "/var/www/static/flaticon/zip_packs/112166-odinicons/svg/brightness.svg"
+    },
+    "building": {
+      "codepoint": 61703,
+      "source": "/var/www/static/flaticon/zip_packs/112166-odinicons/svg/building.svg"
+    },
+    "bullhorn": {
+      "codepoint": 61704,
+      "source": "/var/www/static/flaticon/zip_packs/112166-odinicons/svg/bullhorn.svg"
+    },
+    "calendar": {
+      "codepoint": 61705,
+      "source": "/var/www/static/flaticon/zip_packs/112166-odinicons/svg/calendar.svg"
+    },
+    "cassette": {
+      "codepoint": 61706,
+      "source": "/var/www/static/flaticon/zip_packs/112166-odinicons/svg/cassette.svg"
+    },
+    "clip": {
+      "codepoint": 61707,
+      "source": "/var/www/static/flaticon/zip_packs/112166-odinicons/svg/clip.svg"
+    },
+    "clock": {
+      "codepoint": 61708,
+      "source": "/var/www/static/flaticon/zip_packs/112166-odinicons/svg/clock.svg"
+    },
+    "cloud": {
+      "codepoint": 61709,
+      "source": "/var/www/static/flaticon/zip_packs/112166-odinicons/svg/cloud.svg"
+    },
+    "cloud-and-rain": {
+      "codepoint": 61710,
+      "source": "/var/www/static/flaticon/zip_packs/112166-odinicons/svg/cloud-and-rain.svg"
+    },
+    "cloud-and-sun": {
+      "codepoint": 61711,
+      "source": "/var/www/static/flaticon/zip_packs/112166-odinicons/svg/cloud-and-sun.svg"
+    },
+    "cloud-and-thunder": {
+      "codepoint": 61712,
+      "source": "/var/www/static/flaticon/zip_packs/112166-odinicons/svg/cloud-and-thunder.svg"
+    },
+    "cocktail": {
+      "codepoint": 61713,
+      "source": "/var/www/static/flaticon/zip_packs/112166-odinicons/svg/cocktail.svg"
+    },
+    "coffee-cup": {
+      "codepoint": 61714,
+      "source": "/var/www/static/flaticon/zip_packs/112166-odinicons/svg/coffee-cup.svg"
+    },
+    "coffin": {
+      "codepoint": 61715,
+      "source": "/var/www/static/flaticon/zip_packs/112166-odinicons/svg/coffin.svg"
+    },
+    "compact-disc": {
+      "codepoint": 61716,
+      "source": "/var/www/static/flaticon/zip_packs/112166-odinicons/svg/compact-disc.svg"
+    },
+    "computer": {
+      "codepoint": 61717,
+      "source": "/var/www/static/flaticon/zip_packs/112166-odinicons/svg/computer.svg"
+    },
+    "computer-mouse": {
+      "codepoint": 61718,
+      "source": "/var/www/static/flaticon/zip_packs/112166-odinicons/svg/computer-mouse.svg"
+    },
+    "conversation": {
+      "codepoint": 61719,
+      "source": "/var/www/static/flaticon/zip_packs/112166-odinicons/svg/conversation.svg"
+    },
+    "credit-card": {
+      "codepoint": 61720,
+      "source": "/var/www/static/flaticon/zip_packs/112166-odinicons/svg/credit-card.svg"
+    },
+    "cross": {
+      "codepoint": 61721,
+      "source": "/var/www/static/flaticon/zip_packs/112166-odinicons/svg/cross.svg"
+    },
+    "cup": {
+      "codepoint": 61722,
+      "source": "/var/www/static/flaticon/zip_packs/112166-odinicons/svg/cup.svg"
+    },
+    "cursor": {
+      "codepoint": 61723,
+      "source": "/var/www/static/flaticon/zip_packs/112166-odinicons/svg/cursor.svg"
+    },
+    "dollar-bill": {
+      "codepoint": 61724,
+      "source": "/var/www/static/flaticon/zip_packs/112166-odinicons/svg/dollar-bill.svg"
+    },
+    "dollar-coin": {
+      "codepoint": 61725,
+      "source": "/var/www/static/flaticon/zip_packs/112166-odinicons/svg/dollar-coin.svg"
+    },
+    "download": {
+      "codepoint": 61726,
+      "source": "/var/www/static/flaticon/zip_packs/112166-odinicons/svg/download.svg"
+    },
+    "earth-globe": {
+      "codepoint": 61727,
+      "source": "/var/www/static/flaticon/zip_packs/112166-odinicons/svg/earth-globe.svg"
+    },
+    "envelope": {
+      "codepoint": 61728,
+      "source": "/var/www/static/flaticon/zip_packs/112166-odinicons/svg/envelope.svg"
+    },
+    "feeding-bottle": {
+      "codepoint": 61729,
+      "source": "/var/www/static/flaticon/zip_packs/112166-odinicons/svg/feeding-bottle.svg"
+    },
+    "file": {
+      "codepoint": 61730,
+      "source": "/var/www/static/flaticon/zip_packs/112166-odinicons/svg/file.svg"
+    },
+    "film-strip": {
+      "codepoint": 61731,
+      "source": "/var/www/static/flaticon/zip_packs/112166-odinicons/svg/film-strip.svg"
+    },
+    "flag": {
+      "codepoint": 61732,
+      "source": "/var/www/static/flaticon/zip_packs/112166-odinicons/svg/flag.svg"
+    },
+    "float": {
+      "codepoint": 61733,
+      "source": "/var/www/static/flaticon/zip_packs/112166-odinicons/svg/float.svg"
+    },
+    "floppy-disk": {
+      "codepoint": 61734,
+      "source": "/var/www/static/flaticon/zip_packs/112166-odinicons/svg/floppy-disk.svg"
+    },
+    "focus": {
+      "codepoint": 61735,
+      "source": "/var/www/static/flaticon/zip_packs/112166-odinicons/svg/focus.svg"
+    },
+    "folder": {
+      "codepoint": 61736,
+      "source": "/var/www/static/flaticon/zip_packs/112166-odinicons/svg/folder.svg"
+    },
+    "ghost": {
+      "codepoint": 61737,
+      "source": "/var/www/static/flaticon/zip_packs/112166-odinicons/svg/ghost.svg"
+    },
+    "gift": {
+      "codepoint": 61738,
+      "source": "/var/www/static/flaticon/zip_packs/112166-odinicons/svg/gift.svg"
+    },
+    "headphones": {
+      "codepoint": 61739,
+      "source": "/var/www/static/flaticon/zip_packs/112166-odinicons/svg/headphones.svg"
+    },
+    "heart": {
+      "codepoint": 61740,
+      "source": "/var/www/static/flaticon/zip_packs/112166-odinicons/svg/heart.svg"
+    },
+    "home": {
+      "codepoint": 61741,
+      "source": "/var/www/static/flaticon/zip_packs/112166-odinicons/svg/home.svg"
+    },
+    "hourglass": {
+      "codepoint": 61742,
+      "source": "/var/www/static/flaticon/zip_packs/112166-odinicons/svg/hourglass.svg"
+    },
+    "ice-cream": {
+      "codepoint": 61743,
+      "source": "/var/www/static/flaticon/zip_packs/112166-odinicons/svg/ice-cream.svg"
+    },
+    "image": {
+      "codepoint": 61744,
+      "source": "/var/www/static/flaticon/zip_packs/112166-odinicons/svg/image.svg"
+    },
+    "ink": {
+      "codepoint": 61745,
+      "source": "/var/www/static/flaticon/zip_packs/112166-odinicons/svg/ink.svg"
+    },
+    "jar": {
+      "codepoint": 61746,
+      "source": "/var/www/static/flaticon/zip_packs/112166-odinicons/svg/jar.svg"
+    },
+    "key": {
+      "codepoint": 61747,
+      "source": "/var/www/static/flaticon/zip_packs/112166-odinicons/svg/key.svg"
+    },
+    "laptop": {
+      "codepoint": 61748,
+      "source": "/var/www/static/flaticon/zip_packs/112166-odinicons/svg/laptop.svg"
+    },
+    "light-bulb": {
+      "codepoint": 61749,
+      "source": "/var/www/static/flaticon/zip_packs/112166-odinicons/svg/light-bulb.svg"
+    },
+    "link": {
+      "codepoint": 61750,
+      "source": "/var/www/static/flaticon/zip_packs/112166-odinicons/svg/link.svg"
+    },
+    "location": {
+      "codepoint": 61751,
+      "source": "/var/www/static/flaticon/zip_packs/112166-odinicons/svg/location.svg"
+    },
+    "lock": {
+      "codepoint": 61752,
+      "source": "/var/www/static/flaticon/zip_packs/112166-odinicons/svg/lock.svg"
+    },
+    "mail": {
+      "codepoint": 61753,
+      "source": "/var/www/static/flaticon/zip_packs/112166-odinicons/svg/mail.svg"
+    },
+    "map": {
+      "codepoint": 61754,
+      "source": "/var/www/static/flaticon/zip_packs/112166-odinicons/svg/map.svg"
+    },
+    "microphone": {
+      "codepoint": 61755,
+      "source": "/var/www/static/flaticon/zip_packs/112166-odinicons/svg/microphone.svg"
+    },
+    "mobile-phone": {
+      "codepoint": 61756,
+      "source": "/var/www/static/flaticon/zip_packs/112166-odinicons/svg/mobile-phone.svg"
+    },
+    "nib": {
+      "codepoint": 61757,
+      "source": "/var/www/static/flaticon/zip_packs/112166-odinicons/svg/nib.svg"
+    },
+    "notebook": {
+      "codepoint": 61758,
+      "source": "/var/www/static/flaticon/zip_packs/112166-odinicons/svg/notebook.svg"
+    },
+    "open-book": {
+      "codepoint": 61759,
+      "source": "/var/www/static/flaticon/zip_packs/112166-odinicons/svg/open-book.svg"
+    },
+    "pacman": {
+      "codepoint": 61760,
+      "source": "/var/www/static/flaticon/zip_packs/112166-odinicons/svg/pacman.svg"
+    },
+    "paint-roller": {
+      "codepoint": 61761,
+      "source": "/var/www/static/flaticon/zip_packs/112166-odinicons/svg/paint-roller.svg"
+    },
+    "pencil": {
+      "codepoint": 61762,
+      "source": "/var/www/static/flaticon/zip_packs/112166-odinicons/svg/pencil.svg"
+    },
+    "phone": {
+      "codepoint": 61763,
+      "source": "/var/www/static/flaticon/zip_packs/112166-odinicons/svg/phone.svg"
+    },
+    "photo-camera": {
+      "codepoint": 61764,
+      "source": "/var/www/static/flaticon/zip_packs/112166-odinicons/svg/photo-camera.svg"
+    },
+    "portable-game-console": {
+      "codepoint": 61765,
+      "source": "/var/www/static/flaticon/zip_packs/112166-odinicons/svg/portable-game-console.svg"
+    },
+    "printer": {
+      "codepoint": 61766,
+      "source": "/var/www/static/flaticon/zip_packs/112166-odinicons/svg/printer.svg"
+    },
+    "profile": {
+      "codepoint": 61767,
+      "source": "/var/www/static/flaticon/zip_packs/112166-odinicons/svg/profile.svg"
+    },
+    "push-pin": {
+      "codepoint": 61768,
+      "source": "/var/www/static/flaticon/zip_packs/112166-odinicons/svg/push-pin.svg"
+    },
+    "quaver": {
+      "codepoint": 61769,
+      "source": "/var/www/static/flaticon/zip_packs/112166-odinicons/svg/quaver.svg"
+    },
+    "reading-lamp": {
+      "codepoint": 61770,
+      "source": "/var/www/static/flaticon/zip_packs/112166-odinicons/svg/reading-lamp.svg"
+    },
+    "ruler": {
+      "codepoint": 61771,
+      "source": "/var/www/static/flaticon/zip_packs/112166-odinicons/svg/ruler.svg"
+    },
+    "safari-logo": {
+      "codepoint": 61772,
+      "source": "/var/www/static/flaticon/zip_packs/112166-odinicons/svg/safari-logo.svg"
+    },
+    "scotter": {
+      "codepoint": 61773,
+      "source": "/var/www/static/flaticon/zip_packs/112166-odinicons/svg/scotter.svg"
+    },
+    "screen": {
+      "codepoint": 61774,
+      "source": "/var/www/static/flaticon/zip_packs/112166-odinicons/svg/screen.svg"
+    },
+    "screwdriver": {
+      "codepoint": 61775,
+      "source": "/var/www/static/flaticon/zip_packs/112166-odinicons/svg/screwdriver.svg"
+    },
+    "search": {
+      "codepoint": 61776,
+      "source": "/var/www/static/flaticon/zip_packs/112166-odinicons/svg/search.svg"
+    },
+    "settings": {
+      "codepoint": 61777,
+      "source": "/var/www/static/flaticon/zip_packs/112166-odinicons/svg/settings.svg"
+    },
+    "shopping-bag": {
+      "codepoint": 61778,
+      "source": "/var/www/static/flaticon/zip_packs/112166-odinicons/svg/shopping-bag.svg"
+    },
+    "snow-cloud": {
+      "codepoint": 61779,
+      "source": "/var/www/static/flaticon/zip_packs/112166-odinicons/svg/snow-cloud.svg"
+    },
+    "snowflake": {
+      "codepoint": 61780,
+      "source": "/var/www/static/flaticon/zip_packs/112166-odinicons/svg/snowflake.svg"
+    },
+    "speaker": {
+      "codepoint": 61781,
+      "source": "/var/www/static/flaticon/zip_packs/112166-odinicons/svg/speaker.svg"
+    },
+    "star": {
+      "codepoint": 61782,
+      "source": "/var/www/static/flaticon/zip_packs/112166-odinicons/svg/star.svg"
+    },
+    "sun": {
+      "codepoint": 61783,
+      "source": "/var/www/static/flaticon/zip_packs/112166-odinicons/svg/sun.svg"
+    },
+    "t-shirt": {
+      "codepoint": 61784,
+      "source": "/var/www/static/flaticon/zip_packs/112166-odinicons/svg/t-shirt.svg"
+    },
+    "tablet": {
+      "codepoint": 61785,
+      "source": "/var/www/static/flaticon/zip_packs/112166-odinicons/svg/tablet.svg"
+    },
+    "tag": {
+      "codepoint": 61786,
+      "source": "/var/www/static/flaticon/zip_packs/112166-odinicons/svg/tag.svg"
+    },
+    "tornado": {
+      "codepoint": 61787,
+      "source": "/var/www/static/flaticon/zip_packs/112166-odinicons/svg/tornado.svg"
+    },
+    "trash": {
+      "codepoint": 61788,
+      "source": "/var/www/static/flaticon/zip_packs/112166-odinicons/svg/trash.svg"
+    },
+    "truck": {
+      "codepoint": 61789,
+      "source": "/var/www/static/flaticon/zip_packs/112166-odinicons/svg/truck.svg"
+    },
+    "umbrella": {
+      "codepoint": 61790,
+      "source": "/var/www/static/flaticon/zip_packs/112166-odinicons/svg/umbrella.svg"
+    },
+    "upload": {
+      "codepoint": 61791,
+      "source": "/var/www/static/flaticon/zip_packs/112166-odinicons/svg/upload.svg"
+    },
+    "vdeo-camera": {
+      "codepoint": 61792,
+      "source": "/var/www/static/flaticon/zip_packs/112166-odinicons/svg/vdeo-camera.svg"
+    },
+    "wallet": {
+      "codepoint": 61793,
+      "source": "/var/www/static/flaticon/zip_packs/112166-odinicons/svg/wallet.svg"
+    },
+    "wrench": {
+      "codepoint": 61794,
+      "source": "/var/www/static/flaticon/zip_packs/112166-odinicons/svg/wrench.svg"
+    },
+    "wristwatch": {
+      "codepoint": 61795,
+      "source": "/var/www/static/flaticon/zip_packs/112166-odinicons/svg/wristwatch.svg"
+    }
+  },
+  "options": {
+    "autowidth": false,
+    "config": false,
+    "css_selector": ".flaticon-{{glyph}}",
+    "debug": false,
+    "font_ascent": 448,
+    "font_descent": 64,
+    "font_design_size": 16,
+    "font_em": 512,
+    "font_name": "Flaticon",
+    "force": true,
+    "input": {
+      "templates": "/var/www/static/flaticon/zip_packs/112166-odinicons/svg",
+      "vectors": "/var/www/static/flaticon/zip_packs/112166-odinicons/svg"
+    },
+    "no_hash": true,
+    "output": {
+      "css": "/var/www/static/flaticon/zip_packs/112166-odinicons/font",
+      "fonts": "/var/www/static/flaticon/zip_packs/112166-odinicons/font",
+      "preview": "/var/www/static/flaticon/zip_packs/112166-odinicons/font"
+    },
+    "preprocessor_path": null,
+    "quiet": true,
+    "templates": [
+      "../../../../../sites/flaticon/libraries/webfont/templates/flaticon.html",
+      "../../../../../sites/flaticon/libraries/webfont/templates/_flaticon.scss",
+      "../../../../../sites/flaticon/libraries/webfont/templates/flaticon.css"
+    ]
+  },
+  "templates": [
+    "/var/www/static/flaticon/zip_packs/112166-odinicons/font/flaticon.html",
+    "/var/www/static/flaticon/zip_packs/112166-odinicons/font/_flaticon.scss",
+    "/var/www/static/flaticon/zip_packs/112166-odinicons/font/flaticon.css"
+  ]
+}

@@ -1,0 +1,71 @@
+.inlineLabel{
+	display: inline;
+}
+
+.inlineLabel::after {
+	content: "|";
+}
+
+.inlineLabel:last-child::after {
+	content: "";
+}
+
+body {
+	background: url("../img/353272.jpg");
+}
+
+.menu {
+	margin-bottom: 10px;
+}
+
+.df {
+	color: white;
+}
+
+.fr {
+	background: blue;
+}
+
+.jp {
+	background: red;
+}
+
+.us {
+	background: yellow;
+}
+
+.content {
+	color: white;
+}
+
+.content > .geo, .temp, .date, .weather {
+	border-radius: 5px;
+	background: rgba(0, 0, 0, 0.5);
+} 
+.content :hover{
+	border-radius: 5px;
+} 
+
+.geo{
+	min-height: 150px;
+	
+}
+
+.temp {
+	min-height: 150px;
+
+}
+
+.date {
+	min-height: 150px;
+}
+
+.weather {
+	min-height: 150px;
+	max-height: 150px;
+}
+
+.header{
+	color: white;
+	background: rgba(0, 0, 0, 0.3);
+}
