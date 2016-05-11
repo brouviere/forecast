@@ -1,0 +1,17 @@
+$background-opacity :  rgba(0, 0, 0, 0.4);
+
+@import 'partials/content';
+@import 'partials/menu';
+@import 'partials/fiveDays';
+@import 'https://fonts.googleapis.com/css?family=Roboto+Mono';
+
+
+body {
+	background: url("../img/353272.jpg");
+	.header{
+		color: white;
+		background: $background-opacity;
+		font-family: 'Roboto Mono', ;
+	}
+}
+

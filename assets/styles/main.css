@@ -1,71 +1,32 @@
-.inlineLabel{
-	display: inline;
-}
-
-.inlineLabel::after {
-	content: "|";
-}
-
-.inlineLabel:last-child::after {
-	content: "";
-}
-
-body {
-	background: url("../img/353272.jpg");
-}
-
-.menu {
-	margin-bottom: 10px;
-}
-
-.df {
-	color: white;
-}
-
-.fr {
-	background: blue;
-}
-
-.jp {
-	background: red;
-}
-
-.us {
-	background: yellow;
-}
+@import "https://fonts.googleapis.com/css?family=Roboto+Mono";
+.content {
+  color: white; }
 
 .content {
-	color: white;
-}
+  border-radius: 5px;
+  background: rgba(0, 0, 0, 0.4); }
+  .content .geo, .content .temp, .content .date, .content .weather {
+    min-height: 150px; }
+  .content .weather {
+    max-height: 150px; }
 
-.content > .geo, .temp, .date, .weather {
-	border-radius: 5px;
-	background: rgba(0, 0, 0, 0.5);
-} 
-.content :hover{
-	border-radius: 5px;
-} 
+.menu {
+  margin-bottom: 10px; }
 
-.geo{
-	min-height: 150px;
-	
-}
+.fiveDays {
+  color: white;
+  background: rgba(0, 0, 0, 0.4);
+  border-radius: 5px; }
 
-.temp {
-	min-height: 150px;
+.col-centered {
+  float: none;
+  margin: 0 auto; }
 
-}
+body {
+  background: url("../img/353272.jpg"); }
+  body .header {
+    color: white;
+    background: rgba(0, 0, 0, 0.4);
+    font-family: "Roboto Mono"; }
 
-.date {
-	min-height: 150px;
-}
-
-.weather {
-	min-height: 150px;
-	max-height: 150px;
-}
-
-.header{
-	color: white;
-	background: rgba(0, 0, 0, 0.3);
-}
+/*# sourceMappingURL=main.css.map */

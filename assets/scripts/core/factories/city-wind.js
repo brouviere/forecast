@@ -1,4 +1,4 @@
-mainApp.factory('cityWind', function ($filter) {
+mainApp.factory('cityWind', function () {
 	return {
 		'getWindDeg': function (cityData) {
 			newWindDeg = cityData.wind.deg;

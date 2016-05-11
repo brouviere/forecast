@@ -1,0 +1,18 @@
+.content {
+	color: white;
+}
+
+.content {
+	border-radius: 5px;
+	background: $background-opacity;
+	.geo, .temp, .date, .weather{
+		min-height: 150px;
+	};
+	.weather {
+		max-height: 150px;
+	}
+}
+
+
+
+
